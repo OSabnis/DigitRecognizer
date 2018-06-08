@@ -1,5 +1,6 @@
-# DigitRecognizer-
+# DigitRecognizer 
 Classification of Digits from MNIST dataset using Convolutional Neural Networks <br>
+
 To run this code, you will need: <br>
 Numpy - Version: 1.14.3 <br>
 Pandas - Version: 0.22.0  <br>
@@ -7,6 +8,8 @@ Keras - Version: 2.1.6 <br>
 Tensorflow - Version: 1.5.0 or above <br>
 Matplotlib - Version: 2.2.2 <br>
 Seaborn - Version: 0.8.1 <br>
+
+
 To execute the classifier: <br>
 Download the repository and run the Digit_Identifier.py file. <br>
 Change the path to the dataset as per your system! <br>
